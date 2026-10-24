@@ -1,0 +1,6 @@
+{
+  "name": "AirRajasthan - B2B Air Cargo & Logistics",
+  "description": "Regional B2B air cargo, aircraft charter, and multimodal logistics platform connecting Western India industrial corridors with domestic and global trade gateways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
